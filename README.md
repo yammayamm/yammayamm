@@ -1,4 +1,4 @@
-## :man_technologist: Doyeon Dev 
+## :woman_technologist: Doyeon Dev 
 <!-- Hits 오류로 인해 잠시 막음 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunho0130)](https://hits.seeyoufarm.com)
 -->
