@@ -7,3 +7,5 @@
 
 - 📖 Junior student in Software Department, Kwangwoon University
 - 💗  Python, Deep Learning(Tensorflow, Keras, Pytorch), Data Analysis
+- 단기 목표 : 매일매일 코딩하기!!!
+- 장기 목표 : ???
