@@ -5,7 +5,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023429447769)](https://www.facebook.com/profile.php?id=100023429447769) 
 
 
-- 📖 Junior student in Software Department, Kwangwoon University
-- 💗  Python, Deep Learning(Tensorflow, Keras, Pytorch), Data Analysis
-- 단기 목표 : 매일매일 코딩하기!!!
-- 장기 목표 : ???
+- 📖 Senior student in Software Department, Kwangwoon University
+
+- 💗 Python, Deep Learning(Tensorflow, Keras, Pytorch), Data Analysis
+
+- 📌 Goal
+  - 단기 목표 : 매일매일 코딩하기!!!
+  - 장기 목표 : ???
