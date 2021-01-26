@@ -10,5 +10,5 @@
 - 💗 Python, Deep Learning(Tensorflow, Keras, Pytorch), Data Analysis
 
 - 📌 Goal
-  - 단기 목표 : 매일매일 코딩하기!!!
+  - 단기 목표 : 365일 코딩하기
   - 장기 목표 : ???
