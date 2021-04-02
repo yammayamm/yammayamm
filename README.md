@@ -12,3 +12,6 @@
 - 📌 Goal
   - 단기 목표 : 365일 코딩하기
   - 장기 목표 : ???
+
+[![Doyeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammayamm)](https://github.com/yammayamm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yammayamm&layout=compact)](https://github.com/yammayamm/github-readme-stats)
