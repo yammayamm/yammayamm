@@ -11,7 +11,7 @@
 
 - 📌 Goal
   - 단기 목표 : 매일 develop 하기
-  - 장기 목표 : X 현재에 최선을 다한다
+  - 장기 목표 : X. 현재에 최선을 다하기
 
 [![Doyeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammayamm)](https://github.com/yammayamm/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yammayamm&layout=compact)](https://github.com/yammayamm/github-readme-stats)
