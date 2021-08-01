@@ -16,7 +16,7 @@
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://maengdev.tistory.com/) -->
 
 
-- 📖 Senior student in Software Department, Kwangwoon University
+- 📖 Senior student majoring in Data Science, Kwangwoon University
 
 - 💗 Python, Deep Learning(Tensorflow, Keras, Pytorch), Data Analysis
 
