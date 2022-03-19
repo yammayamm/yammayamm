@@ -18,7 +18,7 @@
 
 - 📖 MS at GSAI of SNU
 
-- 💗 Python, Deep Learning(Tensorflow, Keras, Pytorch), Data Analysis
+- 💗 Python, Deep Learning(Tensorflow, Keras, Pytorch), Data 
 
 - 📌 Goal
   - 단기 목표 : 매일 develop 하기
