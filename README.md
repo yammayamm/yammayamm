@@ -16,7 +16,7 @@
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://maengdev.tistory.com/) -->
 
 
-- 📖 MS at GSAI of SNU
+- 📖 MS at GSAI of Seoul National University
 
 - 💗 Python, Deep Learning(Tensorflow, Keras, Pytorch), Data 
 
