@@ -15,7 +15,7 @@
 [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8&query=%EB%A7%B9%EC%9C%A4%ED%98%B8)](https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8&query=%EB%A7%B9%EC%9C%A4%ED%98%B8)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://maengdev.tistory.com/) -->
 
-Hi. I'm a MS student in AI in Seoul National University.
+Hi. I'm a MS student in AI at Seoul National University.
 Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_220405.pdf).
 
 [![Doyeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammayamm)](https://github.com/yammayamm/github-readme-stats)
