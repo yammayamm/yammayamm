@@ -1,4 +1,4 @@
-## :woman_technologist: Doyeon Dev 
+## :woman_technologist: Doyeon AI Researcher
 <!-- Hits 오류로 인해 잠시 막음 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunho0130)](https://hits.seeyoufarm.com)
 -->
@@ -17,6 +17,7 @@
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://maengdev.tistory.com/) -->
 
 Hi. I'm a MS student in AI at Seoul National University.
-Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_220405.pdf).
+I'm interested in recommender system.
+Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_230921.pdf).
 
 [![Doyeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammayamm)](https://github.com/yammayamm/github-readme-stats)
