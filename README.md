@@ -18,6 +18,6 @@
 
 Hi. I'm a MS student in AI at Seoul National University.
 I'm interested in recommender system.
-Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_231018.pdf).
+Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_231014.pdf).
 
 <!-- [![Doyeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammayamm)](https://github.com/yammayamm/github-readme-stats)
