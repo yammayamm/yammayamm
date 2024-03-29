@@ -1,7 +1,7 @@
 # :woman_technologist: Doyeon Kim
 
 Hi👋 Welcome to my profile! This is an overview of my activities. 
-I recently graduated with a master's degree of Artificial Intelligence at Seoul National University.
+I recently graduated with a master's degree in Artificial Intelligence at Seoul National University.
 I am continuously researching deep learning and recommender systems.
 Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_240221.pdf).
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyammayamm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
@@ -11,6 +11,7 @@ Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_240221.pdf
 ### :mortar_board: Education
 - M.S. Interdisciplinary Program in Artificial Intelligence [Data Mining Lab](https://datalab.snu.ac.kr/), Seoul National University `2022.03 ~ 2024.02`
 - B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2022.02`
+- Exchange student program, Tampere University `2019.08 ~ 2019.12`
 
 ### 💼 Internship
 - Undergraduate Research Student in AIDA Lab, Korea University `2021.08 ~ 2021.11`
@@ -25,8 +26,8 @@ Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_240221.pdf
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kdy0902ysh@gmail.com) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023429447769)](https://www.facebook.com/profile.php?id=100023429447769) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doyeon-kim-65a04a264)](https://www.linkedin.com/in/doyeon-kim-65a04a264)
-[![Naver Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&link=https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8&query=%EB%A7%B9%EC%9C%A4%ED%98%B8)](https://blog.naver.com/ai-techblog)
- <a href="https://velog.io/@yammayamm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yammayamm"/></a>
+<a href="https://blog.naver.com/ai-techblog"><img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@yammayamm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yammayamm"/></a>
 
 <!--
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/yunho0130)](http://git-awards.com/users/yunho0130)
