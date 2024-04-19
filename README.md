@@ -14,7 +14,7 @@ Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_240221.pdf
 - Exchange student program, Tampere University `2019.08 ~ 2019.12`
 
 ### 💼 Internship
-- Undergraduate Research Student in [AIDA Lab](http://aida.korea.ac.kr/), Korea University `2021.08 ~ 2021.11`
+- Undergraduate Research Student in [AIDA Lab](http://aida.korea.ac.kr/), Korea University `2021.09 ~ 2021.11`
 
 ### 😄 Interests
 - Machine Learning & Deep Learning
