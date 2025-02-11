@@ -28,6 +28,7 @@ Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_240527.pdf
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doyeon-kim-65a04a264)](https://www.linkedin.com/in/doyeon-kim-65a04a264)
 <a href="https://blog.naver.com/ai-techblog"><img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://velog.io/@yammayamm"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yammayamm"/></a>
+<a href="https://huggingface.co/eded0902"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow"/></a>
 
 <!--
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/yunho0130)](http://git-awards.com/users/yunho0130)
