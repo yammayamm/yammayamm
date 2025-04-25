@@ -13,9 +13,6 @@ Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/CV_250305.pdf
 - B.S. in School of Data Science, Kwangwoon University `2018.03 ~ 2022.02`
 - Exchange student program, Tampere University `2019.08 ~ 2019.12`
 
-### 💼 Internship
-- Undergraduate Research Student in [AIDA Lab](http://aida.korea.ac.kr/), Korea University `2021.09 ~ 2021.11`
-
 ### 😄 Interests
 - Machine Learning & Deep Learning
 - Recommender System
