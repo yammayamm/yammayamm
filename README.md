@@ -14,6 +14,7 @@ Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/Doyeon_CV.pdf
 - Exchange student program, Tampere University `2019.08 ~ 2019.12`
 
 ### 😄 Interests
+- LLM & RAG
 - Machine Learning & Deep Learning
 - Recommender System
 - Natural Language Processing
