@@ -1,8 +1,9 @@
 # :woman_technologist: Doyeon Kim
 
 Hi👋 Welcome to my profile! This is an overview of my activities. 
-I recently graduated with a master's degree in Artificial Intelligence at Seoul National University.
-I am continuously researching deep learning and recommender systems.
+I am developing LLM models for Samsung Health in the Health Software R&D Group of Samsung Electronics' MX Division.
+I graduated with a master's degree in Artificial Intelligence at Seoul National University.
+I am continuously researching LLMs and recommender systems.
 Here is my [**CV 📥**](https://github.com/yammayamm/CV/blob/main/Doyeon_CV.pdf).
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyammayamm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
